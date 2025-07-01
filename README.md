@@ -51,11 +51,10 @@ Il notebook è facilmente eseguibile online con **Google Colab**:
 
 - [**Apri direttamente in Colab**][ITER.ipynb](https://colab.research.google.com/drive/16hv_7drm_PAOF42FkZBx_PdH-WcNP7JF?usp=sharing)
 
-Alternativamente:
+Alternativamente, puoi eseguire il notebook localmente:
 
-1. Clona chiaramente questo repository sul tuo PC:
+1. **Clona chiaramente questo repository sul tuo PC**:
+
 ```bash
-git clone <url-di-questo-repository>
+git clone https://github.com/cveronic/iter-data-fusion-lab.git
 
-2. Apri il notebook con Jupyter Notebook locale:
-jupyter notebook ITER.ipynb
