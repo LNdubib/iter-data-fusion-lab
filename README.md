@@ -1,4 +1,4 @@
-# ITER Data Fusion Lab ⚛️📊
+# ITER Data Fusion Lab 
 
 Questo repository contiene un notebook didattico interdisciplinare sul progetto ITER (International Thermonuclear Experimental Reactor) e sulla Data Science, con analisi di dati reali e simulati.
 
@@ -49,7 +49,7 @@ Questo progetto è distribuito con licenza MIT License, liberamente utilizzabile
 
 Il notebook è facilmente eseguibile online con **Google Colab**:
 
-- 📌 [**Apri direttamente in Colab**]([ITER.ipynb](https://colab.research.google.com/drive/16hv_7drm_PAOF42FkZBx_PdH-WcNP7JF?usp=sharing))
+- [**Apri direttamente in Colab**]([ITER.ipynb](https://colab.research.google.com/drive/16hv_7drm_PAOF42FkZBx_PdH-WcNP7JF?usp=sharing))
 
 Alternativamente:
 
