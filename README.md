@@ -30,6 +30,21 @@ Questo repository contiene un notebook didattico interdisciplinare sul progetto 
 
 ---
 
+## Attività di approfondimento e riflessione per studenti
+
+Al termine del notebook, sono suggerite attività didattiche aggiuntive per:
+
+- Scaricare e analizzare ulteriori dati da Eurostat e pwiDB.
+- Confrontare diversi processi plasma-materiale (Retention, Reflection, Sputtering).
+- Scrivere riflessioni personali sulle implicazioni scientifiche, ambientali e tecniche della fusione nucleare.
+
+---
+
+## Licenza
+Questo progetto è distribuito con licenza MIT License, liberamente utilizzabile per scopi didattici, scientifici e divulgativi.
+
+---
+
 ## Come eseguire il notebook
 
 Il notebook è facilmente eseguibile online con **Google Colab**:
@@ -42,3 +57,5 @@ Alternativamente:
 ```bash
 git clone <url-di-questo-repository>
 
+2. Apri il notebook con Jupyter Notebook locale:
+jupyter notebook ITER.ipynb
