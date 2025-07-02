@@ -55,7 +55,7 @@ Il notebook è facilmente eseguibile online con **Google Colab**:
 
 Alternativamente, puoi eseguire il notebook localmente:
 
-1. **Clona chiaramente questo repository sul tuo PC**:
+- **Clona chiaramente questo repository sul tuo PC**:
 
 ```bash
 git clone https://github.com/cveronic/iter-data-fusion-lab.git
