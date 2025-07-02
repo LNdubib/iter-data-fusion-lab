@@ -27,6 +27,7 @@ Questo repository contiene un notebook didattico interdisciplinare sul progetto 
 - **ITER - Sito ufficiale:** [iter.org](https://www.iter.org/)
 - **Eurostat dati energetici:** [Eurostat Gross Electricity Production](https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_pehcf/)
 - **pwiDB (IAEA) - Plasma Wall Interaction Data:** [pwiDB IAEA](https://db-amdis.org/pwidb/psi/?process=0&species=3&surface=&doi=&author=)
+- **A consequential lift, told by the teams**: [iterorganization}(https://youtu.be/CGb0VRyJBx0)
 
 ---
 
