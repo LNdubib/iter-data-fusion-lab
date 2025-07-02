@@ -28,7 +28,7 @@ Questo repository contiene un notebook didattico interdisciplinare sul progetto 
 - **Eurostat dati energetici:** [Eurostat Gross Electricity Production](https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_pehcf/)
 - **pwiDB (IAEA) - Plasma Wall Interaction Data:** [pwiDB IAEA](https://db-amdis.org/pwidb/psi/?process=0&species=3&surface=&doi=&author=)
 - **A consequential lift, told by the teams**: [iterorganization](https://youtu.be/CGb0VRyJBx0)
-- **Blog Ecomentality degli studenti del liceo Calini di Brescia su STEM, innovazione e sostenibilità**:[Ecomentality.it](https://www.ecomentality.it)
+- **Blog Ecomentality degli studenti del liceo Calini di Brescia su STEM, innovazione e sostenibilità**: [Ecomentality.it](https://www.ecomentality.it)
 
 ---
 
